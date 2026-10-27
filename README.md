@@ -85,7 +85,7 @@ llm-chatbot-project/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/llm-chatbot-project.git
+git clone https://github.com/Aditya-Pawar00/llm-chatbot-project.git
 cd llm-chatbot-project
 ```
 
